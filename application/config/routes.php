@@ -51,5 +51,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
 */
 $route['default_controller'] = 'welcome';
 $route['contoh1'] = 'contoh1';
+// $route['view-latihan'] = 'view-latihan';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
