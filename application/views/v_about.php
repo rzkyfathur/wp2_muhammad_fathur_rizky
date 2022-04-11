@@ -1,5 +1,6 @@
 <section>
 	<h1><?php echo $judul ?></h1>
+	<img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar" />
 	<h4>Nama</h4>
 	<ul type="disc">
 		<li>Nama Depan : Fathur</li>
